@@ -1,0 +1,2 @@
+Error: Invalid number format for 'abc'
+Error: Division by zero encountered
